@@ -1,4 +1,4 @@
--- COLLEGE DATABASE DESIGN
+-- COLLEGE DATABASE
 
 -- Departments table
 CREATE TABLE departments (
